@@ -1,4 +1,5 @@
-,Convolution,counter,Dynamic,Full_Adder,LAB1_using_decoder,Processor,Moore,Mealy,Comparator,Koggestone
-Power,119.466,32,121.676,10.367,102.241,623.368,578.763,675.154,13.798,25741.367
-Delay,32.364,3.256,32.463,1.973,3.287,52.467,6.176,4.908,1.784,18.178
-LUTs,3133,63,211,3,2,4146,8,5,2,131
+	Convolution	counter	Dynamic	Full_Adder	LAB1_using_decoder	Processor	Moore	Mealy	Comparator	Koggestone
+Power	119.466	32	121.676	10.367	102.241	623.368	578.763	675.154	13.798	25741.367
+Delay	32.364	3.256	32.463	1.973	3.287	52.467	6.176	4.908	1.784	18.178
+LUTs	3133	63	211	3	2	4146	8	5	2	131
+
